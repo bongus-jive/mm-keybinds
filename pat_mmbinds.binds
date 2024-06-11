@@ -1,0 +1,30 @@
+{
+  "pat_mmbinds": {
+    "name": "^orange;Matter Manipulator^reset;",
+    "binds": {
+      "sizeIncrease": {
+        "default": [ ],
+        "name": "^0;Increase size"
+      },
+      "sizeDecrease": {
+        "default": [ ],
+        "name": "^1;Decrease size"
+      },
+      "altModifier": {
+        "default": [
+          { "type": "key", "value": "LShift" },
+          { "type": "key", "value": "RShift" }
+        ],
+        "name": "^2;Alt size modifier"
+      },
+      "toggleTiles": {
+        "default": [ ],
+        "name": "^3;Toggle tile damage"
+      },
+      "toggleLiquid": {
+        "default": [ ],
+        "name": "^4;Toggle liquid collection"
+      }
+    }
+  }
+}

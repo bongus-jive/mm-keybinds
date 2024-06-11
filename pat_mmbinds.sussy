@@ -1,0 +1,15 @@
+{
+  "strings": {
+    "liquidLocked": "^orange;Liquid Collection upgrade isn't unlocked",
+    "liquidEnabled": "^cyan;MM Liquid Collection: ^green;Enabled",
+    "liquidDisabled": "^cyan;MM Liquid Collection: ^red;Disabled",
+    "tilesEnabled": "^cyan;MM Tile Damage: ^green;Enabled",
+    "tilesDisabled": "^cyan;MM Tile Damage: ^red;Disabled",
+    "blockRadius": "^cyan;MM Radius set to %s tiles",
+    "altBlockRadius": "^violet;MM Alt Radius set to %s tiles",
+    "maxRadius": "^orange;Maximum MM radius is %s tiles"
+  },
+
+  "mmUpgradeGui": "/interface/scripted/mmupgrade/mmupgradegui.config",
+  "mmUpgradeGui_Quickbar": "/interface/scripted/mmupgrade/mmupgradegui.original.config"
+}

@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/genericScriptContexts/pat_mmbinds",
+    "value": "/pat_mmbinds.lua"
+  }
+]
