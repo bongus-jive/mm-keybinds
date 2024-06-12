@@ -103,7 +103,7 @@ end
 
 function getMM()
   local beamaxeItem = player.essentialItem("beamaxe")
-  if not beamaxeItem or root.itemType(beamaxeItem.name) ~= "beamminingtool" then
+  if not beamaxeItem or root.itemType(beamaxeItem.name) ~= "beamminingtool" or not root.itemHasTag(beamaxeItem.name, "miningtool") then
     return
   end
   local params = beamaxeItem.parameters
