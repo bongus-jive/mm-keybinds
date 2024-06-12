@@ -8,5 +8,5 @@
   "steamDescription" : "adds keybinds to control the size of the matter manipulator\nalso a bind to toggle liquid collection\nalso a bind to toggle tile damaging\n\n[h1]Requires [url=https://github.com/StarExtensions/StarExtensions]StarExtensions[/url] or [url=https://github.com/OpenStarbound/OpenStarbound]OpenStarbound[/url][/h1]\n\nchange the binds with /binds\n\nit will probably work with most modded beamaxes? maybe? :3\n\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n[img]https://i.imgur.com/xVfcRRH.gif[/img]https://ko-fi.com/patmanf\n[img]https://i.imgur.com/jJAj6jF.gif[/img]https://github.com/bongus-jive/mm-keybinds",
   "steamTitle" : "Matter Manipulator Keybinds [StarExtensions / OpenSB]",
   "tags" : "Miscellaneous|In-Game Tools",
-  "version" : "1.0"
+  "version" : "1.1"
 }
