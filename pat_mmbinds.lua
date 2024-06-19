@@ -108,7 +108,10 @@ function getMM()
   end
   local params = beamaxeItem.parameters
 
-  if not params.blockRadius or not params.tileDamage or not params.canCollectLiquid then
+  if not params.blockRadius
+  or not params.altBlockRadius
+  or not params.tileDamage
+  or not params.canCollectLiquid then
     local defaults = root.itemConfig(beamaxeItem.name).config
     params.blockRadius = params.blockRadius or defaults.blockRadius or 2
     params.altBlockRadius = params.altBlockRadius or defaults.altBlockRadius or 1
